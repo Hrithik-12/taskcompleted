@@ -133,7 +133,7 @@ export default function Home() {
       <footer className="w-full bg-transparent text-center text-sm p-4 absolute bottom-0 flex flex-col items-center justify-center">
         <p className="text-gray-500">Hrithik Garg - © 2025</p>
         <a
-          href="https://github.com/Hrithik-12/assignmentFallon"
+          href="https://github.com/Hrithik-12/taskcompleted"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:text-blue-700 transition-all duration-300"
